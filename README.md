@@ -1,2 +1,2 @@
-# SimpFolio
+# Myfolio
 portfolio web site
